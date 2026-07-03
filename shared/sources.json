@@ -563,7 +563,7 @@
     "home": "https://www.iqiyi.com",
     "color": "green",
     "interval": 1800000,
-    "title": "热播榜"
+    "title": "热播榜",
     "active": false
   },
   "iqiyi-hot-ranklist": {
@@ -574,5 +574,6 @@
     "color": "green",
     "interval": 1800000,
     "title": "热播榜"
+
   }
 }
