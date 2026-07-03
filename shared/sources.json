@@ -515,6 +515,7 @@
     "color": "blue",
     "interval": 1800000,
     "title": "综合早报"
+    "active": false
   },
   "tencent-hot": {
     "name": "腾讯新闻",
@@ -543,6 +544,7 @@
     "color": "blue",
     "interval": 1800000,
     "title": "热搜榜"
+    "active": false
   },
   "qqvideo-tv-hotsearch": {
     "name": "腾讯视频",
@@ -562,6 +564,7 @@
     "color": "green",
     "interval": 1800000,
     "title": "热播榜"
+    "active": false
   },
   "iqiyi-hot-ranklist": {
     "name": "爱奇艺",
