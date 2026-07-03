@@ -514,7 +514,7 @@
     "home": "https://news.qq.com/tag/aEWqxLtdgmQ=",
     "color": "blue",
     "interval": 1800000,
-    "title": "综合早报"
+    "title": "综合早报",
     "active": false
   },
   "tencent-hot": {
@@ -543,7 +543,7 @@
     "home": "https://v.qq.com/channel/tv",
     "color": "blue",
     "interval": 1800000,
-    "title": "热搜榜"
+    "title": "热搜榜",
     "active": false
   },
   "qqvideo-tv-hotsearch": {
